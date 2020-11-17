@@ -24,7 +24,7 @@ Accept two natural numbers D, P >1 corresponding respectively to number of hours
 24  2
 
 ### Output:
-3 (We have 3 instances of equivalent prime hours: 5~17, 7~19 and 11~23.)
+3 (We have 3 instances of equivalent prime hours: 5 ~ 17, 7 ~ 19 and 11 ~ 23.)
 
 Constraints
 
