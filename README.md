@@ -1,6 +1,6 @@
 # CodevitaRealTimePromblems
 
-**1. Prime Time Again**
+## 1. Prime Time Again
 
 Here on earth, our 24-hour day is composed of two parts, each of 12 hours. Each hour in each part has a corresponding hour in the other part separated by 12 hours: the hour essentially measures the duration since the start of the day part. For example, 1 hour in the first part of the day is equivalent to 13, which is 1 hour into the second part of the day.
 
@@ -18,11 +18,13 @@ Accept two natural numbers D, P >1 corresponding respectively to number of hours
 
 
 
-**Example:**
+## Example:
 
-***Input:*** 24  2
+### Input:
+24  2
 
-***Output:*** 3 (We have 3 instances of equivalent prime hours: 5~17, 7~19 and 11~23.)
+### Output:
+3 (We have 3 instances of equivalent prime hours: 5~17, 7~19 and 11~23.)
 
 Constraints
 
@@ -31,27 +33,27 @@ Constraints
 2 <= P < 50
 
 
-***Input***
+### Input
 
 Single line consists of two space separated integers, D and P corresponding to number of. hours per day and number of parts in a day respectively
 
-***Output***
+### Output
 
 Output must be a single number, corresponding to the number of instances of equivalent prime number, as described above
 
 
-**Example 1**
+## Example 1
 
-***Input***
+### Input
 
 36  3
 
-***Output***
+### Output
 
 2
 
 
-**Explanation**
+## Explanation
 
 In the given test case D = 36 and P = 3
 
